@@ -1,0 +1,7 @@
+SmartCollector
+*.o
+*.out
+*.exe
+*.log
+*.tmp
+
