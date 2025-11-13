@@ -231,10 +231,11 @@ Step 1: Depot ➜ Market
 
 ## 👥 Team
 
-**Aman Rautela** - Task 1 Lead (Route Planning) ✅  
-**Teammate 2** - Task 2 (Multi-Truck Dispatch) ⏳  
-**Teammate 3** - Task 3 (Auto-Refill Simulation) ⏳  
-**Teammate 4** - Task 4 (Priority-Based Collection) ⏳  
+**Aman Rautela** - Task 1 (Route Planning) ✅  
+**Sudhanshu Dhasmana** - Task 2 (Multi-Truck Dispatch) ✅    
+**Anjali Joshi** - Task 3 (Priority-Based Collection) ✅  
+**Shivangi Sati** - Task 4 (Auto-Refill Simulation) ✅    
+ 
 
 **Institution**: MCA @ GEHU
 
@@ -253,3 +254,4 @@ Each task should be implemented in separate files without modifying existing cor
 ---
 
 **Happy Coding! 🚛💨**
+
